@@ -1,6 +1,6 @@
-=== MarkTrolli ===
-Contributors: anothercoffee
-Donate link: http://h16free.com/me-contacter ; bitcoin accepted at 1K5hqN9J3bGvycGBEoftsnXXX9E9Kr5XcA
+=== MarkTroll ===
+Contributors: h16
+Donate link: http://h16free.com/me-contacter
 Tags: comments, spam, hellban, shadowban, trolls, troll, trolling, banning, ban
 Requires at least: 4.0.1
 Tested up to: 4.1.1
