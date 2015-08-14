@@ -5,8 +5,8 @@ Tags: comments, spam, hellban, shadowban, trolls, troll, trolling, banning, ban
 Requires at least: 4.0.1
 Tested up to: 4.1.1
 Stable tag: trunk
-License: MIT
-License URI: http://opensource.org/licenses/MIT
+License: GNU
+License URI: http://www.gnu.org/licenses/gpl.html
 
 MarkTroll is a WordPress plugin for shadowbanning / hellbanning commenters.
 
@@ -19,7 +19,7 @@ shadowbanned.
 
 If you disable this plugin, showbanned comments will become visible to all users.
 
-**Licensing**
+**Licensing**	
 
 All code is released under The GNU License. Please see LICENSE.txt.
 
@@ -39,13 +39,13 @@ To remove a user from shadowban, remove it from the Troll list (pseudo, IP and e
 
 == Frequently Asked Questions ==
 
+None so far
 
 == Changelog ==
 
 = 0.1 =
 * Shadowban list (troll list) in control panel
 * Shadowbanned user's comment is invisible to all but the user
-
 
 == Upgrade Notice ==
 
