@@ -8,7 +8,7 @@ if ( !defined( 'WP_UNINSTALL_PLUGIN' ) )
     exit();
 
 $option_names = array(
-	'marktroll_option_name' 
+	'marktroll_options' 
 );
 
 if ( is_multisite() ) {
