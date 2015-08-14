@@ -8,14 +8,13 @@ Stable tag: trunk
 License: GNU
 License URI: http://www.gnu.org/licenses/gpl.html
 
-MarkTroll is a WordPress plugin for shadowbanning / hellbanning commenters.
+MarkTroll is a WordPress plugin that will let you shadowban (hellban) any unlogged (regular) commenter on your blog.
 
 == Description ==
 
 MarkTroll is a simple WordPress plugin that implements user [shadowbanning](http://en.wikipedia.org/wiki/Hellbanning) (or hellbanning) for comments.
 
-Comments by shadowbanned users will be invisible to all other users. However, the shadowbanned users will continue to see their own comments, hopefully oblivious to the fact that they've been shadowbanned. This is non-destructive in that changes are not made to the comments themselves. Shadowbanned comments are still saved to the database and visible to admins in the dashboard comments listing. Note that contrary to other plugins, Marktroll *does not* expect the commenting user to be logged to be 
-shadowbanned. 
+Comments by shadowbanned users will be invisible to all other users. However, the shadowbanned users will continue to see their own comments, hopefully oblivious to the fact that they've been shadowbanned. This is non-destructive in that changes are not made to the comments themselves. Shadowbanned comments are still saved to the database and visible to admins in the dashboard comments listing. Note that contrary to other plugins, Marktroll *does not* expect the commenting user to be logged to be shadowbanned. 
 
 If you disable this plugin, showbanned comments will become visible to all users.
 
